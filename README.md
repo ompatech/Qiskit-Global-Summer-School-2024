@@ -1,4 +1,4 @@
-# Qiskit Global Summer School Labs
+# Qiskit Global Summer School 2024
 
 ## Overview
 
