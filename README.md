@@ -35,5 +35,5 @@ Each lab is accompanied by detailed comments and explanations to ensure the mate
 
 ## Certificate of Completion
 
-I successfully completed the Qiskit Global Summer School, and you can view my certificate https://www.credly.com/badges/93a9778b-567b-456b-9b66-c7f26323a1fa/public_url.
+I successfully completed the Qiskit Global Summer School, and you can view my certificate [here](https://www.credly.com/badges/93a9778b-567b-456b-9b66-c7f26323a1fa/public_url).
 
